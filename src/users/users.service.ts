@@ -10,7 +10,7 @@ export class UsersService {
       userId: 1,
       email: 'john@gmail.com',
       username: 'john',
-      password: 'N1w$3cur3P@ss2025',
+      password: 'superclock323',
     },
     {
       userId: 2,
